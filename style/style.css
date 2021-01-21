@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+}
+h1 {
+  color: blue;
+  border: 2px solid black;
+}
+
+.pepe {
+  color: brown;
+  margin: 20px;
+}
